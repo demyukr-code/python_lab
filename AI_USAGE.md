@@ -6,7 +6,7 @@ ChatGPT with Codex (GPT-6).
 
 ## Conversation link
 
-[Add the share link for this conversation before submission.]
+https://chatgpt.com/share/6b060780-dc10-83ed-8cbc-25bd7d19aa48
 
 ## What the assistant implemented
 
@@ -27,4 +27,4 @@ The assistant implemented these modules using the starter signatures and ran the
 
 ## Student contribution and verification
 
-I supplied my student ID. [After reviewing the project, describe any code you personally changed or behavior you personally verified.]
+I uploaded the Python files, sample data, and tests to GitHub. I ran the public test suite and confirmed that all 29 tests passed. I also ran the program in GitHub Codespaces and checked the flight records it generated from the sample data.
